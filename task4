@@ -1,0 +1,13 @@
+
+/*10/30/2020*/
+
+ .date{
+    
+    vertical-align: inherit;
+    box-sizing: border-box;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 1.65;
+    color: #7e7e7e;
+
+      }
