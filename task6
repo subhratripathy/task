@@ -1,0 +1,13 @@
+/*Price Registration for a period of 12 months, for the purchase of galvanized clamps.*/
+
+
+ p{
+   
+  vertical-align: inherit;
+  box-sizing: border-box;
+  font-family: Arial,Sans-Serif;
+    color: #7e7e7e;
+  font-size: 14px;
+    line-height: 1.65;
+
+ }
